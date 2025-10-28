@@ -1,0 +1,15 @@
+These are the issues we currently have
+1. I haven't added the latest version of the Observer pattern(as per the recommendation of our tutor)
+** 1 isn't that serious
+This also means that we will work on it together today.
+
+2. The Mediator, I suggest we wait for the tutor, to approve/disapprove since she said it didn't make sense last time.
+
+3. Then after the demo we do 1 and 2.
+
+4. Lastly we strategically assign each other to committing to the integration branch one last time so that the people with low commits get their numbers up.
+
+5. A draft of the report is there but obviously it's not that impressive.
+I sent out invites to a doc that we will use, each of us should type on it and not copy and paste (because they see a live replay if we chat used AI for it)
+
+6. If all goes well we are done nd left with the powerpoint on Thursday.
